@@ -1,2 +1,2 @@
 # caffe
-buliding deep learning by machine learning 
+building deep learning by machine learning 
